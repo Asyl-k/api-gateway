@@ -1,5 +1,9 @@
 # API Gateway
 
+> **Lab / not maintained.** Это ранний учебный проект: репозиторий заархивирован и оставлен для истории. Актуальные проекты — в [профиле](https://github.com/Asyl-k).
+>
+> **Lab / not maintained.** This is an early learning project. The repository is archived and kept for history; see [my profile](https://github.com/Asyl-k) for maintained projects.
+
 Единая точка входа для сервисов портфолио на Spring Cloud Gateway. Маршрутизирует запросы к orders, inventory и booking; для каждого upstream настроен отдельный Resilience4j circuit breaker и контролируемый fallback `503`.
 
 ## Маршруты
